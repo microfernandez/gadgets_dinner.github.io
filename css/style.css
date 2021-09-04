@@ -781,6 +781,16 @@ button:focus{
     background-position: 0 0;
     position: relative;
 }
+
+.page-breadcrumb-about {
+    padding: 250px 0 150px;
+    background: url(../images/about/about-top.jpg) no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 0 0;
+    position: relative;
+}
+
 .all-page-title .container{
 	position: relative;
 	z-index: 2;
