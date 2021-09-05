@@ -31,6 +31,19 @@
 
 
 /*------------------------------------------------------------------
+    Privacy Page
+-------------------------------------------------------------------*/
+.page-breadcrumb-privacy {
+    padding: 250px 0 150px;
+    background: url(../images/misc/privacy-landing-top.jpg) no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 0 0;
+    position: relative;
+}
+
+
+/*------------------------------------------------------------------
     FAQ Page
 -------------------------------------------------------------------*/
 .page-breadcrumb-faq {
