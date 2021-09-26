@@ -391,6 +391,12 @@ button:focus{
 .heading-title{
 	margin-bottom: 50px;
 }
+
+.heading-title-phones{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
 .heading-title h2{
 	color: #010101;
 	font-size: 28px;
